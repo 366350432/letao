@@ -73,7 +73,7 @@
     padding:10px;
     overflow: hidden;
 }
-.btns a{
+.btns a,.btns span{
     float:left;
     width:50%;
     height:34px;
@@ -82,11 +82,11 @@
     color:#fff;
     font-size:14px;
 }
-.btns a:first-child{
+.btns a{
     background:#fa672d;
 }
 
-.btns a:last-child{
+.btns span{
     background:#991020;
 }
 
